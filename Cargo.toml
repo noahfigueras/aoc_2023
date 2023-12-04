@@ -7,5 +7,6 @@ edition = "2021"
 resolver="1"
 members = [
   "day1",
+  "day2",
 ]
 
